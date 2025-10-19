@@ -1,5 +1,4 @@
-
-<!--# 👋 Hey there, I'm Oubaye El Ghammat  
+👋 Hey there, I'm Oubaye El Ghammat  
 
 🚀 **Software Engineer | AI Enthusiast | Full-Stack Developer**  
 Building intuitive, impactful software — from mobile apps to scalable AI systems.  
